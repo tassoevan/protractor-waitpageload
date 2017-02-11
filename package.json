@@ -1,0 +1,22 @@
+{
+  "name": "@tassoevan/protractor-waitpageload",
+  "version": "1.0.0",
+  "description": "Auxiliar function to handle page loadings in Protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tassoevan/protractor-waitpageload.git"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "author": "Tasso Evangelista <tasso@tassoevan.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tassoevan/protractor-waitpageload/issues"
+  },
+  "homepage": "https://github.com/tassoevan/protractor-waitpageload#readme"
+}
